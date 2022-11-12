@@ -3,7 +3,7 @@ import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Footer from './Components/Footer'
 import Header from './Components/Header'
 import Home from './Components/Home'
-import Videos from './Videos'
+import Videos from './Components/Videos'
 const App = () => {
   return (
     <div>
